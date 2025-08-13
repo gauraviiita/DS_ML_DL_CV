@@ -3,6 +3,8 @@
 
 ## [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
+## [CNN Explainer2](https://tensorspace.org/html/playground/index.html)
+
 Here we learn common things which are commonly used in the DS, ML, DL and CV.
 
 
